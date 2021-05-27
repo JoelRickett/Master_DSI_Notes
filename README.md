@@ -1,7 +1,11 @@
 # Master_DSI_Notes
-    DSI Prep Notes
+Relevant Links
+* [Master Schedule `DSI Premium Prep` for class](https://github.com/GalvanizeOpenSource/dsi-premium-prep)
+*
 
 
+
+#
 # Day 3 (May 26, 2021)
 ## OverView
 
